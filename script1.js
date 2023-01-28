@@ -24,3 +24,7 @@ navItems.forEach(navItem => {
     });
 
 });
+
+function more() {
+    location.href = "iindex.html";
+}
