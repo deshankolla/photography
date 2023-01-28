@@ -33,3 +33,7 @@ function ma() {
 function wa() {
     location.href = "https://wa.me/94764745690";
 }
+
+function more() {
+    location.href = "iindex.html";
+}
